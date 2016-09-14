@@ -1,0 +1,1 @@
+In order to be a WeiFund contract complaint campaign, your campaign contract must follow the WeiFund campaign interface contract specification. This does not ensure the campaign is in any way safe, it only ensures the campaign has enough valid blockchain interfacing to be listed on the WeiFund platform.

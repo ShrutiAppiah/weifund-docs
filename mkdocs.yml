@@ -13,6 +13,15 @@ pages:
   - Payout a Campaign: 'getting_started/payout_campaign.md'
   - Claim Refund: 'getting_started/claim_refund.md'
   - Reporting a Campaign: 'getting_started/reporting_a_campaign.md'
+- Advantages:
+  - For Projects: 'advantages/for_projects.md'
+  - For Contributors: 'advantages/for_contributors.md'
+  - For Curators: 'advantages/for_curators.md'
+- Specifications:
+  - Overview: 'specifications/overview.md'
+  - Campaign Interface Contract: 'specifications/campaign_interface_contract.md'
+  - Weifund Contract Interface v1: 'specifications/weifund_contract_interface_v1.md'
+  - Properties: 'specifications/properties.md'
   - Installation: 'getting_started/installation.md'
   - Choosing an Ethereum client: 'getting_started/client.md'
   - Creating a project: 'getting_started/project.md'
