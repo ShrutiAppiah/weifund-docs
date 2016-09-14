@@ -7,7 +7,7 @@ address (a standard Ethereum address)
 **Technical Description** <br/>
 A constant method with a single address return output that describes the owner and operator Ethereum standard account address of the campaign. This should be either an Ethereum vanilla account or a proxy contract which can forward dynamic transactions.
 
-Example:
+**Example** <br/>
 0x3bf6e47517dc9abc4559597ba4c020c07c1c892c
 
 ##amountRaised():
@@ -19,7 +19,7 @@ uint256 (unsigned integer 256 bit)
 **Technical Description** <br/>
 A constant method with a single uint256 return output that describes the amount raised in wei denomination (i.e. the base Ether currency denomination)
 
-Example:
+**Example** <br/>
 313500000000 [replace with better example]
 
 ##fundingGoal():
@@ -31,7 +31,7 @@ uint256 (unsigned integer 256 bit)
 **Technical Description** <br/>
 A constant method with a single uint256 return output that describes the funding goal in wei denomination (i.e. the base Ether currency denomination)
 
-Example: <br/>
+**Example** <br/>
 313500000000 [replace with better example]
 
 ##beneficiary():
@@ -43,7 +43,7 @@ address (Ethereum standard account address)
 **Technical Description** <br/>
 A constant method with a single address return output that describes the campaign beneficiary account Ethereum address where funds will be sent to if the campaign is a success.
 
-Example: <br/>
+**Example** <br/>
 0x3bf6e47517dc9abc4559597ba4c020c07c1c892c
 
 ##expiry():
@@ -55,7 +55,7 @@ uint256 (unsigned integer 256 bit)
 **Technical Description** <br/>
 A constant method with a single uint256 return output that describes the campaign expiry in UNIX timestamp format.
 
-Example: <br/>
+**Example** <br/>
 999830290 [replace with better example]
 
 ##name():
@@ -67,7 +67,7 @@ string (a string with a length less than 100 characters)
 **Technical Description** <br/>
 A constant method with a single string return output that describes the campaign name.
 
-Example: <br/>
+**Example** <br/>
 Nick's Crowdfunding Campaign
 
 ##version():
@@ -79,7 +79,7 @@ string (a string with a length less than 10 characters)
 **Technical Description** <br/>
 A constant method with a single string return output that describes the campaign WeiFund version specification.
 
-Example:
+**Example** <br/>
 0.1.0
 
 ##contributeMethodABI():
@@ -91,7 +91,7 @@ string (a single string)
 **Technical Description** <br/>
 A constant method with a single string return output that describes the campaigns contribution method, in Solidity standard method ABI format. This string must have no imperfections and be technically precise to the contribution method in the campaign contract. In order to ensure you have the correct information, please deploy your contracts on the WeiFund testnet platform. This will allow you to test the and ensure that the method details provided are correct and work with the WeiFund platform.
 
-Example:
+**Example** <br/>
 contributeMsgValue():(uint256 contributionID)
 
 ##payoutMethodABI():
@@ -103,13 +103,13 @@ string (a single string)
 **Technical Description** <br/>
 A constant method with a single string return output that describes the campaigns contribution method in Solidity standard method ABI format. This string must have no imperfections and be technically precise and accurate to the payout method in the campaign contract. In order to ensure you have the correct information, please deploy your contracts on the WeiFund testnet platform. This will allow you to test the and ensure that the method details provided are correct and work with the WeiFund platform.
 
-Example:
+**Example** <br/>
 payoutToBeneficiary():(uint256 amountClaimed)
 
 ##refundMethodABI():
 The campaign refund method ABI description, that allows the WeiFund interface to provide a refund system for the campaign.
 
-**Required Return Type** <br/> 
+**Required Return Type** <br/>
 string (a single string)
 
 **Technical Description** <br/>
