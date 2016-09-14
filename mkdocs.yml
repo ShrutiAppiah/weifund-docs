@@ -40,3 +40,6 @@ pages:
   - Reporting Concerns and Attacks: 'security/reporting.md'
 - Community:
   - Team and Community: 'community/team_community.md'
+- Policy:
+  - Why is my Campaign not listed: 'policy/why.md'
+  - Policies: 'policy/policies.md'
