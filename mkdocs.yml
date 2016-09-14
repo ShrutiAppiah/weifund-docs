@@ -1,0 +1,32 @@
+site_name: My Docs
+repo_url: https://github.com/Consensys/truffle
+site_description: Truffle Documentation
+theme: readthedocs
+extra_css: [extra.css]
+pages:
+- Introduction: 'index.md'
+- Getting Started:
+  - Campaigns: 'getting_started/campaigns.md'
+  - Contributing to a Campaign: 'getting_started/contributing_to_a_campaign.md'
+  - Getting Ether: 'getting_started/getting_ether.md'
+  - Exchange Basics: 'getting_started/exchange_basics.md'
+  - Payout a Campaign: 'getting_started/payout_campaign.md'
+  - Claim Refund: 'getting_started/claim_refund.md'
+  - Reporting a Campaign: 'getting_started/reporting_a_campaign.md'
+  - Installation: 'getting_started/installation.md'
+  - Choosing an Ethereum client: 'getting_started/client.md'
+  - Creating a project: 'getting_started/project.md'
+  - Compiling contracts: 'getting_started/compile.md'
+  - Running migrations: 'getting_started/migrations.md'
+  - Building your application: 'getting_started/build.md'
+  - Testing your contracts: 'getting_started/testing.md'
+  - Interacting with your contracts: 'getting_started/contracts.md'
+  - Using the console: 'getting_started/console.md'
+  - Writing external scripts: 'getting_started/scripts.md'
+  - Improving your workflow: 'getting_started/workflow.md'
+  - Contact the developers: 'getting_started/contact.md'
+- Advanced:
+  - Configuration: 'advanced/configuration.md'
+  - Networks & App Deployment: 'advanced/networks.md'
+  - Build Processes: 'advanced/build_processes.md'
+  - Command Reference: 'advanced/commands.md'
