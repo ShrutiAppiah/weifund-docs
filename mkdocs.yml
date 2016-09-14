@@ -38,3 +38,5 @@ pages:
   - Defensive Practices: 'security/defensive_practices.md'
   - Anti-spoofing Mechanisms: 'security/anti-spoof.md'
   - Reporting Concerns and Attacks: 'security/reporting.md'
+- Community:
+  - Team and Community: 'community/team_community.md'
