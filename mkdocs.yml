@@ -1,5 +1,5 @@
 site_name: My Docs
-repo_url: https://github.com/Consensys/truffle
+repo_url: https://github.com/weifund/weifund-dapp-basic
 site_description: Truffle Documentation
 theme: readthedocs
 extra_css: [extra.css]
@@ -22,20 +22,4 @@ pages:
   - Campaign Interface Contract: 'specifications/campaign_interface_contract.md'
   - Weifund Contract Interface v1: 'specifications/weifund_contract_interface_v1.md'
   - Properties: 'specifications/properties.md'
-  - Installation: 'getting_started/installation.md'
-  - Choosing an Ethereum client: 'getting_started/client.md'
-  - Creating a project: 'getting_started/project.md'
-  - Compiling contracts: 'getting_started/compile.md'
-  - Running migrations: 'getting_started/migrations.md'
-  - Building your application: 'getting_started/build.md'
-  - Testing your contracts: 'getting_started/testing.md'
-  - Interacting with your contracts: 'getting_started/contracts.md'
-  - Using the console: 'getting_started/console.md'
-  - Writing external scripts: 'getting_started/scripts.md'
-  - Improving your workflow: 'getting_started/workflow.md'
-  - Contact the developers: 'getting_started/contact.md'
-- Advanced:
-  - Configuration: 'advanced/configuration.md'
-  - Networks & App Deployment: 'advanced/networks.md'
-  - Build Processes: 'advanced/build_processes.md'
-  - Command Reference: 'advanced/commands.md'
+  - Campaign Data Specifications: 'specifications/campaign_data_specifications.md'
