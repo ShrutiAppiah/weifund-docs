@@ -2,7 +2,7 @@ The WeiFund campaign interface contract contains all essential method requiremen
 
 ```
 contract Campaign {
-  
+
 /// @notice the owner or campaign operator of the campaign
 /// @return the Ethereum standard account address of the owner specified
 function owner() constant returns(address) {}
@@ -49,3 +49,7 @@ event RefundPayoutClaimed(address _payoutDestination, uint256 _payoutAmount);
 event BeneficiaryPayoutClaimed (address _payoutDestination, uint256 _payoutAmount);
 }
 ```
+##Contract Overview
+The WeiFund Interface contract follows the WeiFund campaign contract specification [provide link]. Please see that for details on method information.
+
+The contract also contains a range of events to enhance user experience. This includes a “ContributionMade” event which should be fired when a contribution was made successfully, “RefundPayoutClaimed” which should be fired when a refund was claimed successfully and a “BenificaryPayoutClaimed” which should be fired when the campaign payout was transacted successfully.

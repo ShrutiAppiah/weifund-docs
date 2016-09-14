@@ -1,6 +1,6 @@
 The WeiFund platform allows campaigns to register additional cosmetic non-blockchain campaign data, this is data that tightly conforms to the WeiFund campaign data specification [provide link].
 
-```javascript
+```
 import "Owner.sol";
 
 contract CampaignDataRegistryInterface {
@@ -43,3 +43,11 @@ return data[_campaign];
 mapping(address => bytes) data;
 }
 ```
+
+##Contract Overview
+The WeiFund campaign data registry allows any campaign owner (i.e. owner()) to specify additional cosmetic campaign data which enhances the campaign listing, viewing, contribution, refund and payout experiences on the WeiFund user interfaces.
+
+The registry will automatically throw a EVM error if any method except “storedData” or “register” is used.
+The register has a central registry method where campaign owners can register additional cosmetic campaign data to their campaign. The owners may do this multiple times. Presently, the data registered must be a n IPFS hash that has been properly formatted and converted to base58 hex code. The WeiFund UI will determine the nature of the data registered (i.e. if the data is an IPFS hash). If successful, the “CampaignDataRegistered” event will fire.
+
+The stored data method “storedData” returns the data stored for a specific campaign by the campaign owner.

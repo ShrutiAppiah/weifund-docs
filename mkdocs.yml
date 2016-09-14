@@ -30,6 +30,11 @@ pages:
   - Standard Campaign Contract: 'contracts/standard_campaign_contract.md'
   - Contract Design: 'contracts/contract_design.md'
   - Campaign Registry: 'contracts/campaign_registry.md'
-  - Contract Overview: 'contracts/contract_overview.md'
   - Weifund Campaign Data Registry: 'contracts/weifund_campaign_data_registry.md'
   - Weifund Campaign Interface Contract: 'contracts/weifund_campaign_interface_contract.md'
+- Security:
+  - Overview: 'security/overview.md'
+  - Contract Security: 'security/contract_security.md'
+  - Defensive Practices: 'security/defensive_practices.md'
+  - Anti-spoofing Mechanisms: 'security/anti-spoof.md'
+  - Reporting Concerns and Attacks: 'security/reporting.md'
