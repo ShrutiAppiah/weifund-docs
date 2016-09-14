@@ -1,6 +1,8 @@
 # Welcome to Weifund
 
-WeiFund is a decentralized crowdfunding platform. It allows anyone with an Internet connection to start, contribute to and receive the benefits of a crowdfunding campaign. By design, WeiFund is an open platform, that provides contract templates, security standards, best practices, and vetting systems to ensure safe and secure crowdfunds. WeiFund is built with blockchain technology and does not exist in any one place. While we do have a website portal, WeiFund has a client which is not a portal, but a way for anyone to access the platform.
+WeiFund is an open platform for crowdfunding campaigns. You can launch a campaign using one of Weifund’s secure contract templates that we develop, or you can integrate your own campaign - the details of that integration are outlined below in this documentation. Weifund’s is built on Ethereum.
+
+With a strong focus on security and smart contract best practices, Weifund makes it easy to launch a safe campaign that works in the Weifund user interfaces. Vetting systems provide users with assessments of campaign readiness, allowing communities to confidently fund selected campaigns and their post-campaign business logic. WeiFund provides both Weifund.io, our campaign portal, and clients interact with campaigns that are accessible from IPFS [Portal IPFS hash?].
 
 ##The Portal
 WeiFund will run a portal that allows anyone to see a selection of campaigns. The idea behind the portal is to allow anyone to see what the platform experience is like. The WeiFund organization reserves the right to list or delist whatever it wants on the portal for any reason it chooses, this is because it is run off of a website and must conform to the code of the website hosts. The portal will allow full platform functionality, but may not list all campaigns.
