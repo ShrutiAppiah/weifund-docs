@@ -10,10 +10,3 @@ The WeiFund client on the other hand will allow anyone to access any data valid 
 
 ##Testnet & Livenet
 The WeiFund platform supports both the Ethereum (ETH) livenet and testnet. The WeiFund portal and client should be able to detect what network you are on and set the contract addresses accordingly. However, please ensure you are on the desired network before proceeding with creating or interacting with any WeiFund contract or listed campaign. We recommend that you use and experiment with WeiFund on the Etheruem testnet, before publishing your campaign to the livenet on WeiFund. We recommend you create an experimental campaign on the testnet with a StandardCampaign contract, and then see if all the details you have selected are what you are after before moving to the livenet.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
