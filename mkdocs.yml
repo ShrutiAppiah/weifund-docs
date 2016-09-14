@@ -1,6 +1,6 @@
 site_name: My Docs
 repo_url: https://github.com/weifund/weifund-dapp-basic
-site_description: Truffle Documentation
+site_description: Weifund Documentation
 theme: readthedocs
 extra_css: [extra.css]
 pages:
@@ -23,3 +23,5 @@ pages:
   - Weifund Contract Interface v1: 'specifications/weifund_contract_interface_v1.md'
   - Properties: 'specifications/properties.md'
   - Campaign Data Specifications: 'specifications/campaign_data_specifications.md'
+- Contributing:
+  - Contributing: 'contributing/contributing.md'
