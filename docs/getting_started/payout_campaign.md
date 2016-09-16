@@ -2,7 +2,7 @@
 A Beneficiary is the recipient of funds from a successful campaign on Weifund. Beneficiaries are addresses on Ethereum are with simple account addresses or another smart contract. Funds are typically stored in the campaign smart contracts until the campaign ends. To have the funds transferred to the Beneficiary, a payout transaction must be sent to the campaign smart contract system. Currently anyone can access Payout functions of Standard Campaigns. It is of course possible to restrict access to the payout function. Payout functions that receive these transactions are often access restricted, which means only the owner of the beneficiary account will be able to withdraw the campaign funds.
 
 
-To Payout Funds to a Beneficiary:
+**To Payout Funds to a Beneficiary** <br/>
 
 1. Select the campaign you would like to payout
 2. Check if the payout button is available

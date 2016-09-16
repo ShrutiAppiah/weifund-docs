@@ -26,32 +26,9 @@ pages:
   - Registration: 'specifications/registration.md'
 - Contributing to Weifund:
   - Github: 'contributing/github.md'
-- Advantages:
-  - For Projects: 'advantages/for_projects.md'
-  - For Contributors: 'advantages/for_contributors.md'
-  - For Curators: 'advantages/for_curators.md'
-- Specifications:
-  - Overview: 'specifications/overview.md'
-  - Weifund Contract Interface v1: 'specifications/weifund_contract_interface_v1.md'
-  - Properties: 'specifications/properties.md'
-  - Campaign Data Specifications: 'specifications/campaign_data_specifications.md'
-- Contributing:
-  - Contributing: 'contributing/contributing.md'
-- Contracts:
-  - Overview: 'contracts/overview.md'
-  - Standard Campaign Contract: 'contracts/standard_campaign_contract.md'
-  - Contract Design: 'contracts/contract_design.md'
-  - Campaign Registry: 'contracts/campaign_registry.md'
-  - Weifund Campaign Data Registry: 'contracts/weifund_campaign_data_registry.md'
-  - Weifund Campaign Interface Contract: 'contracts/weifund_campaign_interface_contract.md'
-- Security:
-  - Overview: 'security/overview.md'
-  - Contract Security: 'security/contract_security.md'
-  - Defensive Practices: 'security/defensive_practices.md'
-  - Anti-spoofing Mechanisms: 'security/anti-spoof.md'
-  - Reporting Concerns and Attacks: 'security/reporting.md'
 - Community:
-  - Team and Community: 'community/team_community.md'
-- Policy:
+  - Community: 'community/team_community.md'
+- Policies:
   - Why is my Campaign not listed: 'policy/why.md'
   - Policies: 'policy/policies.md'
+- Glossary: 'glossary.md'

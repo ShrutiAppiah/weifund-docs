@@ -25,7 +25,7 @@ WeiFund has specifically made the decision to not provide a wallet at this time.
 7. Go to the URL bar, and type in the address for WeiFund
 8. Follow the “Contributing to a Campaign” instructions
 
-##MetaMask
+###MetaMask
 1. Open either Chrome or Firefox browsers
 2. If on Chrome go [here](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) and click “Add to Chome”
 3. If on Firefox x

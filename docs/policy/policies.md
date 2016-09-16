@@ -1,24 +1,23 @@
-##DMCA Policy
-The WeiFund portal follows the DMCA policy, standard across most websites on the Internet.
+##Terms of Service
 
-If a campaign listed on the WeiFund portal is in violation of DMCA. Please report it to us by sending a report to report@weifund.io. With the title formatting “DMCA Violation Report For [Campaign] [Campaign ID]”.
+[link to Terms of Service on github]
 
-##Client Policy:
-WeiFund does not directly operate or curate in any way the WeiFund client. This is merely software anyone can affect or download and run.
+##Privacy Policy
 
-##Portal Policy:
-WeiFund reserves the right to list and unlist whatever it wants on the WeiFund portal website.
+[link to Privacy Policy on Github]
 
-##General Disclaimer
-WeiFund has a general disclaimer everyone must agree to before using either the portal or client. The disclaimer is stated below:
+##Contribution License Agreement
 
-```
-[provide disclaimer]
-```
+[link to Contribution Agreement on github]
 
 ##Software License
-Presently the WeiFund platform is under the MIT software license. The license is provided below:
 
-```
-[provide MIT licence]
-```
+**The MIT License (MIT)**
+
+Copyright (c) 2016 Nick Dodson
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

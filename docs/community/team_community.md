@@ -1,12 +1,6 @@
 The WeiFund platform isn't running on magic. There is a fantastic development team and community behind us, that includes the Ethereum and broader blockchain and crowdfunding communities.
 
-##Core Team
-Our core team that manages the WeiFund project.
-
-[provide team information here]
-
-##ConsenSys
-The ConsenSys network, and organization is a long time supporter of the WeiFund platform. Please read more about ConsenSys here, and how awesome everyone is on [our website](http://consensys.net).
+Weifund is part of the network of ConsenSys projects, and organization that has been a long time supporter of the Ethereum ecosystem and the WeiFund platform. You can read more about ConsenSys and how awesome everyone is at [http://consensys.net](http://consensys.net).
 
 ##Community
 * [r/weifund](https://www.reddit.com/r/weifund)
