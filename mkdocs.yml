@@ -15,8 +15,15 @@ pages:
 - Security:
   - Overview: 'security/overview.md'
   - Smart Contract Vetting: 'security/smartcontract_vetting.md'
+  - Contract Security: 'security/contract_security.md'
   - Defensive Practices: 'security/defensive_practices.md'
+  - Anti-spoofing Mechanisms: 'security/anti-spoof.md'
   - Reporting Concerns and Attacks: 'security/reporting.md'
+- Campaign Specifications:
+  - Overview: 'specifications/overview.md'
+  - Contract Interface: 'specifications/campaign_interface_contract.md'
+  - Campaign Data Specifications: 'specifications/campaign_data_specifications.md'
+  - Registration: 'specifications/registration.md'
 - Advantages:
   - For Projects: 'advantages/for_projects.md'
   - For Contributors: 'advantages/for_contributors.md'
