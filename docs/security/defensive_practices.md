@@ -4,4 +4,4 @@ WeiFund implements a number of defensive practices on the WeiFund front-end code
 - Rigid Data Checking of Campaign Contract Data Information
 - No direct handling of Etheruem wallets (no wallet creation)
 - Re-entracy limiting with Claim Contract distancing
-- Separation of concerns for StandardCampaign contracts (don't mix campaign logic with dispersal logic) for WeiFund standard campaigns
+- Separation of concerns for Campaign Templates that don't mix campaign logic with dispersal logic

@@ -12,6 +12,11 @@ pages:
   - Paying Out to a Beneficiary: 'getting_started/payout_campaign.md'
   - Claiming a Refund Owed: 'getting_started/claim_refund.md'
   - Reporting A Campaign: 'getting_started/reporting_a_campaign.md'
+- Security:
+  - Overview: 'security/overview.md'
+  - Smart Contract Vetting: 'security/smartcontract_vetting.md'
+  - Defensive Practices: 'security/defensive_practices.md'
+  - Reporting Concerns and Attacks: 'security/reporting.md'
 - Advantages:
   - For Projects: 'advantages/for_projects.md'
   - For Contributors: 'advantages/for_contributors.md'
