@@ -7,5 +7,5 @@ Please notate the topic as:
 
 **Links**
 
-* [Reddit](www.reddit.com/r/weifund)
+* [Reddit](https://www.reddit.com/r/weifund/)
 * [Email](report@weifund.io)
