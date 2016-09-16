@@ -9,8 +9,7 @@ pages:
   - Campaigns: 'getting_started/campaigns.md'
   - Contributing to a Campaign: 'getting_started/contributing_to_a_campaign.md'
   - Getting Ether: 'getting_started/getting_ether.md'
-  - Exchange Basics: 'getting_started/exchange_basics.md'
-  - Payout a Campaign: 'getting_started/payout_campaign.md'
+  - Paying Out to a Beneficiary: 'getting_started/payout_campaign.md'
   - Claim Refund: 'getting_started/claim_refund.md'
   - Reporting a Campaign: 'getting_started/reporting_a_campaign.md'
 - Advantages:
