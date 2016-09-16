@@ -30,5 +30,6 @@ pages:
   - Community: 'community/team_community.md'
 - Policies:
   - Why is my Campaign not listed: 'policy/why.md'
-  - Policies: 'policy/policies.md'
+  - Terms & Licences: 'policy/policies.md'
+  - Privacy Policy: 'policy/privacy_policy.md'
 - Glossary: 'glossary.md'
