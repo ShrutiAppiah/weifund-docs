@@ -30,3 +30,8 @@ WeiFund has specifically made the decision to not provide a wallet at this time.
 2. If on Chrome go [here](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) and click “Add to Chome”
 3. If on Firefox x
 4. Install the [MetaMask app](http://metamask.io)
+5. Click on the orange MetaMask fox that has now appeared at the top right hand side of the browser
+6. Begin the wallet setup process (i.e. select a password and notate your password seed)
+7. To purchase a small amount of ether, you can use the Coinbase Buy Widget that is integrated into MetaMask. If you want to buy more or are in a country that is not supported by Coinbase, see the Getting Ether section.
+8. Go to the [WeiFund Portal](www.weifund-basic.surge.sh)
+9. Follow the “Contributing to a Campaign” instructions
