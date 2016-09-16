@@ -24,13 +24,14 @@ pages:
   - Contract Interface: 'specifications/campaign_interface_contract.md'
   - Campaign Data Specifications: 'specifications/campaign_data_specifications.md'
   - Registration: 'specifications/registration.md'
+- Contributing to Weifund:
+  - Github: 'contributing/github.md'
 - Advantages:
   - For Projects: 'advantages/for_projects.md'
   - For Contributors: 'advantages/for_contributors.md'
   - For Curators: 'advantages/for_curators.md'
 - Specifications:
   - Overview: 'specifications/overview.md'
-  - Campaign Interface Contract: 'specifications/campaign_interface_contract.md'
   - Weifund Contract Interface v1: 'specifications/weifund_contract_interface_v1.md'
   - Properties: 'specifications/properties.md'
   - Campaign Data Specifications: 'specifications/campaign_data_specifications.md'
