@@ -4,5 +4,5 @@ Please notate the topic as:
 
 *“Report Claim [Campaign Name] #[Campaign ID] [either “fraudulent”, “invalid”, “suspicious”]”*
 
-* Reddit: [r/weifund](www.reddit.com/r/weifund) and [r/ethereum](www.reddit.com/r/ethereum)
-* Email: [report@weifund.io](report@weifund.io)
+* Reddit: [r/ethereum](www.reddit.com/r/ethereum)
+* Email: [mail@weifund.io](mail@weifund.io)
