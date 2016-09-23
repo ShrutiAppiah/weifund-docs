@@ -3,9 +3,13 @@ In order for your campaign data to be shown and listed on WeiFund, it must follo
 
 [Scehma: https://github.com/weifund/weifund-schema/blob/master/weifund-schema-empty.json](https://github.com/weifund/weifund-schema/blob/master/weifund-schema-empty.json)
 
-[Example JSON for 'Parallels' campaign on test net](https://github.com/weifund/weifund-schema/blob/master/examples/weifund-schema-parallels.json)
+Example:
 
-[Parallels campaign on test net](https://weifund-basic.surge.sh/campaign/28) 
+You can view a live campaign on test net and its specificaiton at the following links:
+
+[Example campaign on test net](https://weifund-basic.surge.sh/campaign/28) 
+
+[Specification for campaign](https://github.com/weifund/weifund-schema/blob/master/examples/weifund-schema-parallels.json)
 
 
 ##Data Specification Repository
