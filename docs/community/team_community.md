@@ -3,5 +3,4 @@ The WeiFund platform isn't running on magic. There is a fantastic development te
 Weifund is part of the network of ConsenSys projects, and organization that has been a long time supporter of the Ethereum ecosystem and the WeiFund platform. You can read more about ConsenSys and how awesome everyone is at [http://consensys.net](http://consensys.net).
 
 ##Community
-* [r/weifund](https://www.reddit.com/r/weifund)
 * [r/ethereum](https://www.reddit.com/r/ethereum/)
